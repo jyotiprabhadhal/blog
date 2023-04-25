@@ -1,0 +1,171 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    padding-left: 10px;
+    /* padding-right: 10px; */
+    width: 95%;
+    font-size: 13px;
+    
+}
+header{
+    text-align: center;
+    margin-bottom: 50px;
+    
+
+}
+mark{
+    background-color: black;
+    color: white;
+}
+.left{
+    /* border: 2px solid; */
+    height: 180vh;
+    width: 60%;
+    float: left;
+
+}
+.right{
+    /* border: 2px solid ; */
+    height: 80vh;
+    width: 35%;
+    float: right;
+
+}
+.one{
+    /* width: 100%; */
+    /* border: 2px solid; */
+    height: 78vh;
+    box-shadow: 0px 0px 10px 0px black;
+    font-size: 12px;
+    
+}
+.one img{
+    width: 100%;
+
+}
+.com1{
+    float: right;
+
+}
+.one span{
+    background-color: black;
+    color: white;
+    
+    padding: 5px;
+}
+.two{
+    /* width: 100%; */
+    /* border: 2px solid; */
+    height: 78vh;
+    box-shadow: 0px 0px 10px 0px black;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.two img{
+    width:100%
+}
+.com2{
+    float: right;
+}
+.two span{
+background-color: black;
+color: white;
+padding: 10PX;
+}
+.three{
+    /* width: 100%; */
+    /* border: 2px solid; */
+    /* height: 30vh; */
+   /* float: left;  */
+   box-shadow: 0px 0px 10px 0px black;
+   font-size: 12px;
+   
+}
+.three img{
+    width: 100%;
+
+}
+
+.four{
+    /* width: 100%; */
+    /* border: 2px solid; */
+    /* height: 30vh; */
+    box-shadow: 0px 0px 10px 0px black;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 12px;
+}
+.post1{
+    display: flex;
+    padding: 5px;
+
+}
+.post1 img{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+.post2{
+    display: flex;
+    padding: 5px;
+}
+.post2 img{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+.post3{
+    display: flex;
+    padding: 5px;
+
+}
+.post3 img{
+    height:50px ;
+    width:50px ;
+    padding: 5px;
+}
+.post4{
+    display: flex;
+    padding: 5px;
+}
+.post4 img{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+
+.five{
+    width:100%;
+    /* border: 2px solid; */
+    /* height:20vh; */
+    box-shadow: 0px 0px 10px 0px black; 
+    margin-top: 20px;
+}
+.five p span{
+    margin: 2px;
+    background-color: lightgray;
+    font-size: 11px;
+}
+.five p mark{
+    font-size: 13px;
+}
+footer{
+    background-color: darkgray;
+    height: 30vh;
+    float:none;
+    clear: both;
+    margin: 3px;
+    background-color: lightgrey;
+    font-size: 15px;
+}
+ footer .off:hover{
+    background-color:grey;
+    cursor: not-allowed;
+}
+footer button{
+    background-color: black;
+    color:white ;
+}
